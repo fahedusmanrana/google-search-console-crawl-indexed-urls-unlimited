@@ -9,6 +9,7 @@
 - **Service Account Authentication**: Uses a secure Google service account for automated API access.
 
 ### Requirements
+- **CREDENTIALS** credentials.json file is needed which you can add by downloading it from your GSC project file after allowing user rights.
 - **PHP**: Version 7 or higher.
 - **Google API PHP Client**: For authenticating and communicating with the GSC API.
 - **PhpSpreadsheet**: For generating Excel files.
