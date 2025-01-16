@@ -12,7 +12,7 @@ The **Google Search Console Indexed URLs Fetcher** is a PHP-based tool designed 
 - **Secure API Access**: Utilizes Google Service Account authentication for secure, automated API interactions.
 
 ### Requirements
-- **PHP**: Version 7.4 or higher.
+- **PHP**: Version 8.1 or higher.
 - **Google API PHP Client**: For interfacing with the GSC API.
 - **PhpSpreadsheet**: For creating Excel files.
 - **Service Account Credentials**: A `credentials.json` file downloaded from your Google Cloud Project with appropriate GSC access.
